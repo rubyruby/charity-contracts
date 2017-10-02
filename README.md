@@ -1,4 +1,4 @@
-# charity-contracts
+# Charity Contracts
 Charity.sol is used in our demo DApp: https://rubyruby.github.io/charity/
 
 You can find the source code for everything else in this DApp here:
